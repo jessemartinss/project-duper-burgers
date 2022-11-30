@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'Thicccboi Black';
+  src: url('./assets/fonts/THICCCBOI-Black.ttf');
+}
+@font-face {
+  font-family: 'Thicccboi Bold';
+  src: url('./assets/fonts/THICCCBOI-Bold.ttf');
+}
+@font-face {
+  font-family: 'Thicccboi Medium';
+  src: url('./assets/fonts/THICCCBOI-Medium.ttf');
+}
+@font-face {
+  font-family: 'Thicccboi Regular';
+  src: url('./assets/fonts/THICCCBOI-Regular.ttf');
+}
+@font-face {
+  font-family: 'Thicccboi Light';
+  src: url('./assets/fonts/THICCCBOI-Light.ttf');
+}
+
+$font-thicccboi-black:'Thicccboi Black';
+$font-thicccboi-bold:'Thicccboi Bold';
+$font-thicccboi-medium:'Thicccboi Medium';
+$font-thicccboi-regular:'Thicccboi Regular';
+$font-thicccboi-light:'Thicccboi Light';
+
+$color-primary-1:#FF7629;
+$color-color-1:#DF6019;
+$color-color-2:#FFF6F1;
+$color-neutral-800:#131313;
+$color-neutral-700:#3B3B3B;
+$color-neutral-600:#696969;
+$color-neutral-500:#9F9D9D;
+$color-neutral-400:#D0D0D0;
+$color-neutral-300:#E7E7E7;
+$color-neutral-200:#FAFAFA;
+$color-neutral-100:#FFFFFF;
+$color-blue-400:#086CD9;
+$color-blue-300:#1D88FE;
+$color-blue-200:#8FC3FF;
+$color-blue-100:#EAF4FF;
+$color-green-400:#11845B;
+$color-green-300:#05C168;
+$color-green-200:#7FDCA4;
+$color-green-100:#DEF2E6;
+$color-red-400:#DC2B2B;
+$color-red-300:#FF5A65;
+$color-red-200:#FFBEC2;
+$color-red-100:#FFEFF0;
+$color-orange-400:#D5691B;
+$color-orange-300:#FF9E2C;
+$color-orange-200:#FFD19B;
+$color-orange-100:#FFF3E4;
+
+* {
+  font-family: $font-thicccboi-regular;
+}
