@@ -32,7 +32,7 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 
 ## 🚀 Projeto em produção
 
-Acesse [``]() do seu navegador.
+Acesse [`https://project-duper-burgers.netlify.app/`](https://project-duper-burgers.netlify.app/) do seu navegador.
 
 ## 📄 Licença
 
