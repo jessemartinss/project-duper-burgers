@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import './Footer.scss';
 import Brand from '../../assets/icons/brand-default.svg';
