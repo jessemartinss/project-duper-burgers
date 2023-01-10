@@ -126,44 +126,50 @@
 .db-btn-outline-orange-small {
     padding: 16px 24px;
     background-color: transparent;
-    color: $color-neutral-100;
+    color: $color-neutral-800;
     border-radius: 14px;
-    border: 1px solid $color-neutral-100;
+    border: 1px solid $color-neutral-400;
     font-size: 16px;
     line-height: 18px;
     font-weight: 600;
     &:hover {
         background-color: $color-primary-1;
         color: $color-neutral-100;
+        border: 0px;
+        transition: .9s ease;
     }
 }
 
 .db-btn-outline-orange-default {
     padding: 26px 38px;
     background-color: transparent;
-    color: $color-neutral-100;
+    color: $color-neutral-800;
     border-radius: 14px;
-    border: 1px solid $color-neutral-100;
+    border: 1px solid $color-neutral-400;
     font-size: 18px;
     line-height: 20px;
     font-weight: 600;
     &:hover {
         background-color: $color-primary-1;
         color: $color-neutral-100;
+        border: 0px;
+        transition: .9s ease;
     }
 }
 
 .db-btn-outline-orange-large {
     padding: 28px 56px;
     background-color: transparent;
-    color: $color-neutral-100;
+    color: $color-neutral-800;
     border-radius: 14px;
-    border: 1px solid $color-neutral-100;
+    border: 1px solid $color-neutral-400;
     font-size: 20px;
     line-height: 22px;
     font-weight: 600;
     &:hover {
         background-color: $color-primary-1;
         color: $color-neutral-100;
+        border: 0px;
+        transition: .9s ease;
     }
 }

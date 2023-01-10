@@ -21,6 +21,29 @@
             }
         }
     }
+    .db-home-02 {
+        position: relative;
+        top: -65px;
+        text-align: center;
+        padding: 0px 30px;
+        h2 {
+            font-size: 46px;
+            font-weight: 900;
+            color: $color-neutral-800;
+        }
+        p {
+            font-size: 24px;
+            list-style: 32px;
+            color: $color-neutral-600;
+            margin-bottom: 30px;
+        }
+        .db-home-btn-02 {
+            a {
+                display: inline-block;
+                margin: 0px 15px;
+            }
+        }
+    }
     @media (min-width: 300px) and (max-width: 568.98px) {
         .db-home-container {
             border-radius: 0px;
@@ -37,6 +60,24 @@
                     width: 150px;
                     top: -70px;
                     border: 6px solid $color-neutral-100;
+                }
+            }
+        }
+        .db-home-02 {
+            padding: 0px;
+            h2 {
+                font-size: 32px;
+            }
+            p {
+                font-size: 18px;
+            }
+            .db-home-btn-02 {
+                a {
+                    display: block !important;
+                    margin-bottom: 15px;
+                   button {
+                        width: 100%;
+                   }
                 }
             }
         }
