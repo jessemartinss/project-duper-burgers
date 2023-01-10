@@ -1,0 +1,169 @@
+@import '../../index.scss';
+
+.db-btn-orange-small {
+    padding: 16px 24px;
+    background-color: $color-primary-1;
+    color: $color-neutral-100;
+    border-radius: 14px;
+    border: 0px;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 600;
+    &:hover {
+        background-color: $color-color-1;
+        transition: .9s ease-in;
+    }
+}
+
+.db-btn-orange-default {
+    padding: 26px 38px;
+    background-color: $color-primary-1;
+    color: $color-neutral-100;
+    border-radius: 14px;
+    border: 0px;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 600;
+    &:hover {
+        background-color: $color-color-1;
+        transition: .9s ease-in;
+    }
+}
+
+.db-btn-orange-large {
+    padding: 28px 56px;
+    background-color: $color-primary-1;
+    color: $color-neutral-100;
+    border-radius: 14px;
+    border: 0px;
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: 600;
+    &:hover {
+        background-color: $color-color-1;
+        transition: .9s ease-in;
+    }
+}
+
+.db-btn-white-small {
+    padding: 16px 24px;
+    background-color: $color-neutral-100;
+    color: $color-primary-1;
+    border-radius: 14px;
+    border: 0px;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 600;
+}
+
+.db-btn-white-default {
+    padding: 26px 38px;
+    background-color: $color-neutral-100;
+    color: $color-primary-1;
+    border-radius: 14px;
+    border: 0px;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 600;
+}
+
+.db-btn-white-large {
+    padding: 28px 56px;
+    background-color: $color-neutral-100;
+    color: $color-primary-1;
+    border-radius: 14px;
+    border: 0px;
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: 600;
+}
+
+.db-btn-outline-white-small {
+    padding: 16px 24px;
+    background-color: transparent;
+    color: $color-neutral-100;
+    border-radius: 14px;
+    border: 1px solid $color-neutral-100;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 600;
+    &:hover {
+        background-color: $color-neutral-100;
+        color: $color-primary-1;
+    }
+}
+
+.db-btn-outline-white-default {
+    padding: 26px 38px;
+    background-color: transparent;
+    color: $color-neutral-100;
+    border-radius: 14px;
+    border: 1px solid $color-neutral-100;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 600;
+    &:hover {
+        background-color: $color-neutral-100;
+        color: $color-primary-1;
+    }
+}
+
+.db-btn-outline-white-large {
+    padding: 28px 56px;
+    background-color: transparent;
+    color: $color-neutral-100;
+    border-radius: 14px;
+    border: 1px solid $color-neutral-100;
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: 600;
+    &:hover {
+        background-color: $color-neutral-100;
+        color: $color-primary-1;
+    }
+}
+
+.db-btn-outline-orange-small {
+    padding: 16px 24px;
+    background-color: transparent;
+    color: $color-neutral-100;
+    border-radius: 14px;
+    border: 1px solid $color-neutral-100;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 600;
+    &:hover {
+        background-color: $color-primary-1;
+        color: $color-neutral-100;
+    }
+}
+
+.db-btn-outline-orange-default {
+    padding: 26px 38px;
+    background-color: transparent;
+    color: $color-neutral-100;
+    border-radius: 14px;
+    border: 1px solid $color-neutral-100;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 600;
+    &:hover {
+        background-color: $color-primary-1;
+        color: $color-neutral-100;
+    }
+}
+
+.db-btn-outline-orange-large {
+    padding: 28px 56px;
+    background-color: transparent;
+    color: $color-neutral-100;
+    border-radius: 14px;
+    border: 1px solid $color-neutral-100;
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: 600;
+    &:hover {
+        background-color: $color-primary-1;
+        color: $color-neutral-100;
+    }
+}
