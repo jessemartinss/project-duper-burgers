@@ -3,6 +3,7 @@ import React from 'react';
 import './Home.scss';
 import HomeSection01 from './HomeSection01';
 import HomeSection02 from './HomeSection02';
+import HomeSection03 from './HomeSection03';
 
 export default function Home() {
   return (
@@ -10,7 +11,10 @@ export default function Home() {
         <main className="db-home">
           <div className="db-home-container shadow-sm">
             <HomeSection01/>
-            <HomeSection02/>
+            <div className="db-home-box">
+              <HomeSection02/>
+              <HomeSection03/>
+            </div>
           </div>
         </main>
     </React.Fragment>
